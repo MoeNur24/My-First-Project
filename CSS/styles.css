@@ -7,6 +7,9 @@ body {
 img {
     width: 500px;
     height: 350px;
+    vertical-align: center;
+    border: 5cm;
+
     
 
 }
@@ -26,6 +29,7 @@ p {
 
 ul {
     padding: 0%;
+    float: unset;
 }
 
 li {
