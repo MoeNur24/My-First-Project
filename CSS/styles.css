@@ -28,7 +28,7 @@ p {
 }
 
 ul {
-    padding: 0%;
+    padding:0%;
     float: unset;
 }
 
@@ -40,5 +40,5 @@ li {
 }
 
 #answer { 
-    display: none;
+    display:inline-block;
 }
